@@ -1,0 +1,2 @@
+# gorselProgramlama_Notlar-
+deeme
